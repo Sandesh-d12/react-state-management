@@ -1,0 +1,29 @@
+p{
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 600;
+    color:#fff
+}
+
+a{
+    text-decoration: none;
+}
+
+footer{
+    height: 150px;
+    background-color: #02102d;
+    display:flex;
+    justify-content: space-around;
+    padding:2rem 4rem;
+
+}
+
+/* .collapse:hover .collapse-content {
+    display:flex;
+    position: absolute;
+    top:0;
+    left:0;
+}
+.collapse-content{
+    position:"absolute"
+} */
